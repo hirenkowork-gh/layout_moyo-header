@@ -22,7 +22,6 @@ body {
   margin: 0;
 }
 
-
 header {
   background-color: white;
   display: flex;
@@ -68,6 +67,7 @@ a {
   height: 60px;
   color: var(--main-text);
   position: relative;
+  text-decoration: none;
 }
 
 a:hover {
